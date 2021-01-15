@@ -1,0 +1,31 @@
+* {
+  padding: 10px;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+.button:hover{
+  background-color: yellow;
+  cursor: pointer;
+
+}
+
+
+a:hover {
+  background-color: red;
+}
+
+body {
+  background: linear-gradient(to right, yellow ,#019CAD);
+}
+
+.input.larger{
+  width: 500px;
+  height: 50px;
+}
+
+.heee {
+
+  
+}
