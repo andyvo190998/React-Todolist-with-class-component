@@ -29,7 +29,16 @@ onSubmit = (e) => {
                 <input 
                     type="submit" 
                     value="submit"
-                    style={{ flex: 1 }}
+                    style={{ 
+                        flex: 1, 
+                        textDecoration: 'none', 
+                        cursor: 'pointer', 
+                        padding: '1px 32px',
+                        border:'none',
+                        color:'black',
+                        fontSize: '1rem',
+
+                     }}
                 />
             </form>
         )
